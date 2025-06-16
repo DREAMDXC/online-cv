@@ -28,7 +28,7 @@ My research interests include Power-Meteorology Coupling Modeling and Power-Carb
 2. **Xiaochong Dong**, Zhihang Mao, Yingyun Sun, Xinzhi Xu. Short-Term Wind Power Scenario Generation Based on Conditional Latent Diffusion Models. IEEE Transactions on Sustainable Energy, 2024, 15(2):1074-1085.
 
 ### 2023
-1. **Xiaochong Dong**, Yingyun Sun, Lei Dong, Jian Li, Yan Li, Lei Di. Transferable wind power probabilistic forecasting based on multi-domain adversarial networks. Energy,2023,285:129496.
+1. **Xiaochong Dong**, Yingyun Sun, Lei Dong, Jian Li, Yan Li, Lei Di. Transferable Wind Power Probabilistic Forecasting Based on Multi-Domain Adversarial Networks. Energy, 2023, 285:129496.
 
 ### 2022
-1. **Xiaochong Dong**, Yingyun Sun, Ye Li, Xinying Wang, Tianjiao Pu. Spatio-Temporal Convolutional Network Based Power Forecasting for Multiple Wind Farms.Journal of Modern Power Systems and Clean Energy,2022,10(2):388-398.
+1. **Xiaochong Dong**, Yingyun Sun, Ye Li, Xinying Wang, Tianjiao Pu. Spatio-Temporal Convolutional Network Based Power Forecasting for Multiple Wind Farms.Journal of Modern Power Systems and Clean Energy, 2022, 10(2):388-398.

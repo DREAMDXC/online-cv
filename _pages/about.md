@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I received my Bachelor's degree in electrical engineering from China Three Gorges University, Yichang, China, in 2017, and my M.S. and Ph.D. degrees in electrical engineering from North China Electric Power University, Beijing, China, in 2020 and 2024, respectively. I am currently a postdoctoral researcher at Tsinghua University.
+I am currently a postdoctoral researcher of the Department of Electrical Engineering, Tsinghua University (supervised by Prof. Shengwei Mei).
+
+I received my Bachelor's degree in electrical engineering from China Three Gorges University, Yichang, China, in 2017 (supervised by Prof. Shan Cheng), and my M.S. and Ph.D. degrees in electrical engineering from North China Electric Power University, Beijing, China, in 2020 and 2024, respectively (supervised by Prof. Yingyun Sun).
 
 My research interests include Power-Meteorology Coupling Modeling and Power-Carbon Collaborative Optimization.
-
-Find me on: Google Scholar, [ORCiD](https://orcid.org/0000-0001-8989-0596), and ResearchGate. Here is my CV.
-
 
 ## Working Papers
 1. **Xiaochong Dong**, Yingyun Sun, Yue Yang, Zhihang Mao. Controllable Renewable Energy Scenario Generation Based on Pattern Guided Diffusion Models. Applied Energy,Under Review.
@@ -20,7 +19,7 @@ Find me on: Google Scholar, [ORCiD](https://orcid.org/0000-0001-8989-0596), and 
 3. **Xiaochong Dong**, Xuemin Zhang , Ming Yang, Shengwei Mei. STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting. IEEE Transactions on Sustainable Energy, Under Review.
 4. **Xiaochong Dong**, Xuemin Zhang, Yilin Liu, Shengwei Mei. A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation. IEEE Transactions on Sustainable Energy, Under Review.
 
-## Journal
+## Accepted Papers
 ### 2025
 1. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. CSEE Journal of Power and Energy Systems, 2025, early access.
 

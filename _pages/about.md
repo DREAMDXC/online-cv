@@ -14,14 +14,14 @@ I received my Bachelor's degree in electrical engineering from China Three Gorge
 My research interests include Power-Meteorology Coupling Modeling and Power-Carbon Collaborative Optimization.
 
 ## Working Papers
-1. **Xiaochong Dong**, Jun Dan, Yingyun Sun, Yang Liu, Xuemin Zhang, Shengwei Mei. Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model. *CSEE Journal of Power and Energy Systems*, Under Review.
-2. **Xiaochong Dong**, Xuemin Zhang , Ming Yang, Shengwei Mei. STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting. *IEEE Transactions on Sustainable Energy*, Under Review.
-3. **Xiaochong Dong**, Xuemin Zhang, Yilin Liu, Shengwei Mei. A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation. *IEEE Transactions on Sustainable Energy*, Under Review.
+1. **Xiaochong Dong**, Xuemin Zhang , Ming Yang, Shengwei Mei. STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting. *IEEE Transactions on Sustainable Energy*, Under Review.
+2. **Xiaochong Dong**, Xuemin Zhang, Yilin Liu, Shengwei Mei. A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation. *IEEE Transactions on Sustainable Energy*, Under Review.
 
 ## Accepted Papers
 ### 2025
-1. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. *CSEE Journal of Power and Energy Systems*, 2025, early access.
-2. **Xiaochong Dong**, Yingyun Sun, Yue Yang, Zhihang Mao. Controllable Renewable Energy Scenario Generation Based on Pattern Guided Diffusion Models. *Applied Energy*, Accepted.
+1. **Xiaochong Dong**, Yingyun Sun, Yue Yang, Zhihang Mao. Controllable Renewable Energy Scenario Generation Based on Pattern Guided Diffusion Models. *Applied Energy*, 2025, 398: 126446.
+2. 1. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. *CSEE Journal of Power and Energy Systems*, 2025, Early access.
+3. **Xiaochong Dong**, Jun Dan, Yingyun Sun, Yang Liu, Xuemin Zhang, Shengwei Mei. Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model. *CSEE Journal of Power and Energy Systems*, Accpeted.
 
 ### 2024
 1. **Xiaochong Dong**, Yingyun Sun, Sarmad Majeed Malik,Tianjiao Pu, Ye Li, Xinying Wang. Scenario Reduction Network Based on Wasserstein Distance with Regularization. *IEEE Transactions on Power Systems*, 2024, 39(1):4-13.

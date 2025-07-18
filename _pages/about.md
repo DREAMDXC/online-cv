@@ -20,7 +20,7 @@ My research interests include Power-Meteorology Coupling Modeling and Power-Carb
 ## Accepted Papers
 ### 2025
 1. **Xiaochong Dong**, Yingyun Sun, Yue Yang, Zhihang Mao. Controllable Renewable Energy Scenario Generation Based on Pattern Guided Diffusion Models. *Applied Energy*, 2025, 398: 126446.
-2. 1. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. *CSEE Journal of Power and Energy Systems*, 2025, Early access.
+2. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. *CSEE Journal of Power and Energy Systems*, 2025, Early access.
 3. **Xiaochong Dong**, Jun Dan, Yingyun Sun, Yang Liu, Xuemin Zhang, Shengwei Mei. Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model. *CSEE Journal of Power and Energy Systems*, Accpeted.
 
 ### 2024

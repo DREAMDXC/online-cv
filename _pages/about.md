@@ -16,8 +16,8 @@ My research interests include Power-Meteorology Coupling Modeling and Power-Carb
 ## Working Papers
 1. **Xiaochong Dong**, Xuemin Zhang , Ming Yang, Shengwei Mei. STDHL: Spatio-Temporal Dynamic Hypergraph Learning for Wind Power Forecasting. *IEEE Transactions on Sustainable Energy*, Under Review.
 2. **Xiaochong Dong**, Yilin Liu, Xuemin Zhang, Shengwei Mei. A Data-driven Dynamic Temporal Correlation Modeling Framework for Renewable Energy Scenario Generation. *IEEE Transactions on Sustainable Energy*, Under Review.
-3. **Xiaochong Dong**，Yilin Liu, Xuemin Zhang, Shengwei Mei. Short-Term Wind Power Forecasting via Data-Driven Ensemble Weather Modeling. *Protection and Control of Modern Power Systems*, Under Review.
-4. Jinju Huang, Yingyun Sun, **Xiaochong Dong**, Hang Zhou, Chenzheng Xie, Chenzhenghan Zhu and Zhicheng Ma. Cross-modal Contrastive Learning for Net Load
+3. **Xiaochong Dong**, Yilin Liu, Xuemin Zhang, Shengwei Mei. Short-Term Wind Power Forecasting via Data-Driven Ensemble Weather Modeling. *Protection and Control of Modern Power Systems*, Under Review.
+4. Jinju Huang, Yingyun Sun, **Xiaochong Dong**, Hang Zhou, Chenzheng Xie, Chenzhenghan Zhu, Zhicheng Ma. Cross-modal Contrastive Learning for Net Load
 Prediction Based on Public Weather Forecasts. *IEEE Transactions on Smart Grid*, Under Review.
 5. Zhihang Mao, Yue Yang, Dong Liu, Guodong Guo, **Xiaochong Dong**, Yingyun Sun. Dynamic Spatiotemporal Aware Latent Diffusion Model for Multi-Regional Wind Power Joint Scenario Generation. *CSEE Journal of Power and Energy Systems*, Under Review.
 

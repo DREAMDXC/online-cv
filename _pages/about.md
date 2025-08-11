@@ -24,7 +24,7 @@ My research interests include Power-Meteorology Coupling Modeling and Power-Carb
 2. **Xiaochong Dong**, Yingyun Sun, Xuemin Zhang, Shengwei Mei. Short-term Wind Power Forecasting Based on Multi-task Learning with Shared Latent Space Mapping. *CSEE Journal of Power and Energy Systems*, 2025, Early access.
 3. **Xiaochong Dong**, Jun Dan, Yingyun Sun, Yang Liu, Xuemin Zhang, Shengwei Mei. Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model. *CSEE Journal of Power and Energy Systems*, Accpeted.
 4. Jinju Huang, Yingyun Sun, **Xiaochong Dong**, Hang Zhou, Chenzheng Xie, Chenzhenghan Zhu, Zhicheng Ma. Cross-modal Contrastive Learning for Net Load Prediction Based on Public Weather Forecasts. *IEEE Transactions on Smart Grid*, Early access.
-5. 4. Zhihang Mao, Yue Yang, Dong Liu, Guodong Guo, **Xiaochong Dong**, Yingyun Sun. Dynamic Spatiotemporal Aware Latent Diffusion Model for Multi-Regional Wind Power Joint Scenario Generation. *CSEE Journal of Power and Energy Systems*, Accpeted.
+5. Zhihang Mao, Yue Yang, Dong Liu, Guodong Guo, **Xiaochong Dong**, Yingyun Sun. Dynamic Spatiotemporal Aware Latent Diffusion Model for Multi-Regional Wind Power Joint Scenario Generation. *CSEE Journal of Power and Energy Systems*, Accpeted.
 
 ### 2024
 1. **Xiaochong Dong**, Yingyun Sun, Sarmad Majeed Malik,Tianjiao Pu, Ye Li, Xinying Wang. Scenario Reduction Network Based on Wasserstein Distance with Regularization. *IEEE Transactions on Power Systems*, 2024, 39(1):4-13.
